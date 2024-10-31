@@ -1,0 +1,58 @@
+<body bgcolor="#9b59b6">
+    <h1>DAFTAR-HEWAN-KURBAN</h1>
+    <H6>1. Sapi</H6>
+    <h5>2. kambing</h5>
+    <h4>3. unta </h4>
+<hr/>
+    <!--Pembuka tag tabel-->
+    <table border="2">
+        <tr>
+            <th>No</th>
+            <th>Nama</th>
+            <th>harga</th>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>sapi</td>
+            <td>20.000.000</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>kambing</td>
+            <td>3.500.000</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>unta</td>
+            <td>70.000.000</td>
+        </tr>
+    </table>
+    <!--Penutup Tag Tabel-->
+
+    <!--Pembuka Tag List-->
+    <h3>Maka kerjakanlah sholat karena Tuhanmu dan berqurbanlah</h3>
+    <ul>
+        <li>sapi</li>
+        <li>kambing</li>
+        <li>unta</li>
+        
+    </ul>
+    <ol>
+        <li>20.000.000</li>
+        <li>3.500.000</li>
+        <li>70.000.000</li>
+    </ol>
+
+    <a href="https://simitnu.itsnupekalongan.ac.id/">Simitnu</a&gt;
+
+    <br>
+
+    <img src="image cow.jpeg" alt="sapi">
+    <img src="image goat.jpeg" alt="kambing">
+    <img src="image camel.jpeg" alt="unta">
+    
+    
+
+
+</body>
+</html>
